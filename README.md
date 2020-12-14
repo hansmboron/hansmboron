@@ -1,9 +1,7 @@
-### 👋 Hello World !  
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 ## Meu nome é Hans M. Boron :)
 
-  
 :heart: Programming | :black_heart: Rock | :blue_heart: Flutter
   
 Atualmente estou cursando Análise e Desenvolvimento de Sistemas no IFPR Campus Irati
@@ -12,7 +10,7 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas no IFPR Campus 
 - 💬 Me pergunte qualquer coisa. Vou tentar ajudar da melhor maneira que puder.
 - 📫 Como entrar em contato comigo:
 
-| [<img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384060.svg" alt="youtube logo" width="22">]() |  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc9n1a2jJje00H-X9uYaYkofG42J8hPt-t_g&usqp=CAU" alt="telegram logo" width="24">](https://t.me/hansboron) |  [<img src="https://mehsys.site/img/flavicon.png" alt="mehsys logo" width="20">](https://mehsys.site) |  [<img src="https://img2.gratispng.com/20180320/kgq/kisspng-linkedin-logo-computer-icons-business-symbol-linkedin-icon-5ab176563be596.8497903315215796062453.jpg" alt="linkedin logo" width="28">](https://www.linkedin.com/hans-mateus-boron) |  [<img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Gmail_2020.png" alt="gmail logo" width="22">](hansmateusboron@gmail.com)
+| [<img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384060.svg" alt="youtube logo" width="22">](https://bit.ly/2DaQTtq) |  [<img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111646.svg" alt="telegram logo" width="22">](https://t.me/hansboron) |  [<img src="https://mehsys.site/img/flavicon.png" alt="mehsys logo" width="20">](https://mehsys.site) |  [<img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="linkedin logo" width="22">](https://www.linkedin.com/hans-mateus-boron) |  [<img src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" alt="gmail logo" width="22">](mailto:hansmateusboron@gmail.com)
 
 ----
 
