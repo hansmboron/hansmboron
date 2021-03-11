@@ -4,7 +4,7 @@
 
 :heart: Programming
 
-- 🌱 Atualmente eu estou estudando principalmente Flutter, faço vários cursos, desenvolvo pequenos projetos. Edito vídeos para meu canal no Youtube, principalmete sobre Linux. Estou sempre utilizando meu tempo livre para aprender alguma coisa, por exemplo: Python, Java, Kotlin, Dart, C++, Bootstrap, Delphi, etc.
+- 🌱 Atualmente eu estou estudando principalmente Flutter, faço vários cursos, desenvolvo pequenos projetos. Edito vídeos para meu canal no Youtube, principalmete sobre Linux. Estou sempre utilizando meu tempo livre para aprender alguma coisa, por exemplo: Python, Java, Kotlin, Dart, Bootstrap, etc.
 - 💬 Me pergunte qualquer coisa. Vou tentar ajudar da melhor maneira que puder.
 - 📫 Como entrar em contato comigo:
 
@@ -19,7 +19,7 @@
 
 ---
 
-📊 **Quanto eu acho que entendo sobre algumas coisas*
+📊 **Quanto eu acho que entendo sobre algumas linguagens e frameworks*
 <!--START_SECTION:waka-->
 ```
 Flutter       █████████████░░░░░░░░░░░░   
