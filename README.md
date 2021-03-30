@@ -8,7 +8,7 @@
 - 💬 Me pergunte qualquer coisa. Vou tentar ajudar da melhor maneira que puder.
 - 📫 Como entrar em contato comigo:
 
-| [<img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384060.svg" alt="youtube logo" width="22">](https://bit.ly/2DaQTtq) |  [<img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111646.svg" alt="telegram logo" width="22">](https://t.me/hansboron) |  [<img src="https://mehsys.site/img/flavicon.png" alt="mehsys logo" width="20">](https://mehsys.site) |  [<img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="linkedin logo" width="20">](https://www.linkedin.com/in/hansmateusboron/) |  [<img src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" alt="gmail logo" width="22">](mailto:hansmateusboron@gmail.com)
+| [<img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384060.svg" alt="youtube logo" target="_blank" width="22">](https://bit.ly/2DaQTtq) |  [<img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111646.svg" alt="telegram logo" target="_blank" width="22">](https://t.me/hansboron) |  [<img src="https://mehsys.com.br/img/favicon-196x196.png" alt="mehsys logo" target="_blank" width="20">](https://mehsys.com.br) |  [<img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="linkedin logo" target="_blank" width="20">](https://www.linkedin.com/in/hansmateusboron/) |  [<img src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" target="_blank" alt="gmail logo" width="22">](mailto:hansmateusboron@gmail.com)
 
 ---
 
