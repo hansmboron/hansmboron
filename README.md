@@ -4,7 +4,8 @@
 
 :heart: Programming
 
-- 🌱 Atualmente eu estou estudando principalmente Flutter, faço vários cursos, desenvolvo pequenos projetos. Edito vídeos para meu canal no Youtube, principalmete sobre Linux. Estou sempre utilizando meu tempo livre para aprender alguma coisa, por exemplo: Python, Java, Kotlin, Dart, Bootstrap, etc.
+- 🌱 Atualmente eu estou estudando principalmente Flutter, faço vários cursos, desenvolvo pequenos projetos. Edito vídeos para meu canal no Youtube, principalmete sobre Linux. Estou sempre utilizando meu tempo livre para aprender alguma coisa, por exemplo: Flutter, Python, Java, Kotlin, Bootstrap, etc.
+- 💻 Foco de programação: Front-end
 - 💬 Me pergunte qualquer coisa. Vou tentar ajudar da melhor maneira que puder.
 - 📫 Como entrar em contato comigo:
 
@@ -14,20 +15,6 @@
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Que tal alguns status?
   
-   
-![Hans M. Boron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hansmboron&hide=["stars"]&show_icons=true)
+![Hans M. Boron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hansmboron&hide=["stars"]&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Hans M. Boron's GitHub Lenguages](https://github-readme-stats.vercel.app/api/top-langs/?username=hansmboron&layout=compact&langs_count=7&theme=dark)
 
----
-
-📊 **Quanto eu acho que entendo sobre algumas linguagens e frameworks*
-<!--START_SECTION:waka-->
-```
-Flutter       █████████████░░░░░░░░░░░░   
-Python        ████████░░░░░░░░░░░░░░░░░ 
-Java          ███████░░░░░░░░░░░░░░░░░░
-Bootstrap     ██████░░░░░░░░░░░░░░░░░░░
-HTML/CS       █████░░░░░░░░░░░░░░░░░░░░  
-PHP           █████░░░░░░░░░░░░░░░░░░░░ 
-JavaScript    ████░░░░░░░░░░░░░░░░░░░░░ 
-
-⭐️ From [@hansmboron](https://github.com/hansmboron)
